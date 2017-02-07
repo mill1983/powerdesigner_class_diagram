@@ -1,0 +1,2 @@
+# powerdesigner_class_diagram
+将powerdesigner中的类图解析成各种代码的模块
